@@ -1,0 +1,15 @@
+{
+  "name": "Transcend",
+  "symbol": "TRS",
+  "description": "Let Win.",
+  "image": "https://raw.githubusercontent.com/fernandostubborn-ctrl/token-metadata/main/joker.jpeg",
+  "properties": {
+    "files": [
+      {
+        "uri": "https://raw.githubusercontent.com/fernandostubborn-ctrl/token-metadata/main/joker.jpeg",
+        "type": "image/jpeg"
+      }
+    ],
+    "category": "image"
+  }
+}
